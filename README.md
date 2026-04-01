@@ -1,4 +1,4 @@
-# 📘 NLP Assignment: Sentiment Classification with BERT & Tokenization Strategies
+# 📘 NLP Project: Sentiment Classification with BERT & Tokenization Strategies
 
 ## 📌 Overview
 This project implements a **sentiment classification pipeline** using a pretrained **BERT (Bidirectional Encoder Representations from Transformers)** model.
